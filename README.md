@@ -1,4 +1,4 @@
 <div align="center">
 
-<img src="https://count.getloli.com/@ynwklaus?name=ynwklaus&theme=random&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Profile view counter">
+<img src="https://count.getloli.com/@ynwklaus?name=ynwklaus&theme=booru-helltaker&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Profile view counter">
 
